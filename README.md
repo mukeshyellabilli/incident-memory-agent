@@ -1,5 +1,3 @@
-Absolutely. Below is the complete content formatted as a proper **`README.md` Markdown file**. You can copy everything inside the code block directly into GitHub's `README.md`.
-
 ````markdown
 # AI Incident Memory Agent
 
